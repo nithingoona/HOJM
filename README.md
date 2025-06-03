@@ -1,3 +1,5 @@
+# Higher Order Jacobi Method
+
 Each folders in the main directory contains python codes 
 that compute computation time calculations of solving system 
 of matrices using corresponding built-in functions and also using 
